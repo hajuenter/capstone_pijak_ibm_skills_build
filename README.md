@@ -18,7 +18,7 @@ Selain fitur prediksi, platform ini juga dilengkapi dengan metrik analitik dan f
 
 - **Insight Demografi (Usia & Jenis Kelamin):** Analisis karakteristik pelanggan untuk memahami target pasar secara lebih spesifik.
 - **Wawasan Gemini (Gemini Insights):** Integrasi AI generatif dari Google untuk memberikan interpretasi teks otomatis, rekomendasi strategi bisnis, dan narasi cerdas berdasarkan data penjualan Anda.
-- **Aliran Pasar Langsung (Live Market Stream):** Pemantauan aktivitas pasar dan berita jenis produk yang viral atau trending secara real-time untuk pengambilan keputusan yang cepat.
+- **Aliran Pasar Langsung (Live Market Stream):** Pemantauan aktivitas pasar dan menyajikan berita-berita jenis produk yang viral atau trending secara real-time untuk pengambilan keputusan yang cepat.
 - **Chat Konsultasi:** Fitur komunikasi interaktif untuk berkonsultasi mengenai hasil analitik bisnis maupun performa toko.
 
 ---
